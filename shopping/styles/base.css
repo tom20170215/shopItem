@@ -1,0 +1,12 @@
+*{margin: 0;padding: 0;word-wrap:break-word; word-break: break-all;}
+body{background: #fff; color: #333;font: 12px tahoma, Arial,Helvetica,sans-serif;}
+a{text-decoration: none;}
+a:hover{text-decoration: underline;}
+em{font-style: normal;}
+ul,li{list-style: none;}
+img{border: 0;}
+h1,h2,h3,h4,h5,h6{font-size: 1em}
+.clearfloat:after{content: "";display: block;clear: both;}
+.clearfloat{zoom:1;}
+.clear{clear: both;float: none;height: 0;overflow: hidden;}
+html .hide{display: none;}
